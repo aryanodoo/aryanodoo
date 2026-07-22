@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=200&section=header&text=Aryan%20Ullah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Odoo%20Technical%20Developer%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=200&section=header&text=Aryan%20Ullah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Odoo%20Technical%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/aryan-ullah-0a7835293">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,26 +18,33 @@
 
 <br>
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%91%8B%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<table>
+<tr><td>
 
 I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo 16, 17, 18, and 19**, working on custom module development, report customization, workflow automation, and REST API integrations.
 
 - 🏢 Currently building Enterprise ERP solutions at **Al Bari Consulting Group (ABCG)**
-- 🐍 Python backend developer at heart, living in the Odoo ORM
+- 🐍 Python Developer specializing in Odoo
 - 🔄 Comfortable across Sales, Purchase, Inventory, Accounting, HR, Payroll & CRM
 - 🌐 Shipped a **Shopify ↔ Odoo 17** integration and an **Oracle Fusion ↔ Odoo 18** integration
 - 📚 Always learning — currently deep in performance tuning and clean architecture
 - 📍 Based in Lahore, Pakistan
 
+</td></tr>
+</table>
+
 <br>
 
-## 🚀 ERP Expertise
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%9A%80%20ERP%20Expertise&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" bgcolor="#F4F0F7">
 
-**Odoo Development**
+<h3 align="center"><font color="#714B67">Odoo Development</font></h3>
+
 - Custom Module Development
 - Odoo Enterprise Customization
 - ORM Development
@@ -50,9 +57,10 @@ I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo
 - Business Workflow Automation
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" bgcolor="#F4F0F7">
 
-**Integrations & Functional Areas**
+<h3 align="center"><font color="#714B67">Integrations & Functional Areas</font></h3>
+
 - Shopify Integration (Odoo 17) — products, customers, orders, inventory, returns, webhooks
 - Oracle Fusion Integration (Odoo 18) — secure REST API sync
 - Sales · Purchase · Inventory · Accounting
@@ -65,9 +73,11 @@ I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo
 
 <br>
 
-## 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%92%BB%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <div align="center">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,mysql,linux,git,github,docker,nginx&theme=dark" />
 
@@ -88,23 +98,37 @@ I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo
 
 <br>
 
-## 📌 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%93%8C%20Featured%20Projects&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
-### 🛒 Shopify Integration — Odoo 17
+<table width="100%">
+<tr>
+<td width="50%" valign="top" bgcolor="#F4F0F7">
+<h3><font color="#714B67">🛒 Shopify Integration — Odoo 17</font></h3>
 Product, customer, order & inventory sync with two-way webhooks and a full returns/refund flow.
-
-### 🏢 Oracle Fusion Integration — Odoo 18
+</td>
+<td width="50%" valign="top" bgcolor="#F4F0F7">
+<h3><font color="#714B67">🏢 Oracle Fusion Integration — Odoo 18</font></h3>
 Secure REST API bridge between Oracle Fusion ERP and Odoo for enterprise-grade data sync.
-
-### 📊 Custom Financial Reports
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" bgcolor="#F4F0F7">
+<h3><font color="#714B67">📊 Custom Financial Reports</font></h3>
 QWeb-based accounting reports built on top of the Odoo Reporting Engine.
-
-### 📦 Custom Module Library
+</td>
+<td width="50%" valign="top" bgcolor="#F4F0F7">
+<h3><font color="#714B67">📦 Custom Module Library</font></h3>
 Modules spanning HR, Payroll, CRM, Inventory, Purchase, Sales, Accounting, Manufacturing & Reporting.
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📈 Currently
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%93%88%20Currently&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<table width="100%">
+<tr><td bgcolor="#F4F0F7">
 
 ```text
 🔭 Working on     : Enterprise Odoo applications & advanced reporting
@@ -113,16 +137,22 @@ Modules spanning HR, Payroll, CRM, Inventory, Purchase, Sales, Accounting, Manuf
 🤝 Open to         : Odoo freelance/contract work & open-source collaboration
 ```
 
+</td></tr>
+</table>
+
 <br>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <div align="center">
+<br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanodoo&show_icons=true&theme=default&hide_border=true&title_color=714B67&icon_color=714B67&text_color=333333"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanodoo&layout=compact&hide_border=true&theme=default&title_color=714B67&text_color=333333"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanodoo&show_icons=true&hide_border=true&bg_color=F4F0F7&title_color=714B67&icon_color=714B67&text_color=333333&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanodoo&layout=compact&hide_border=true&bg_color=F4F0F7&title_color=714B67&text_color=333333&border_radius=10"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanodoo&theme=default&hide_border=true&background=FFFFFF&ring=714B67&fire=714B67&currStreakLabel=714B67" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanodoo&hide_border=true&background=F4F0F7&ring=714B67&fire=714B67&currStreakLabel=714B67&sideLabels=714B67&dates=333333&border_radius=10" />
 
 </div>
 
