@@ -1,272 +1,142 @@
-# 👋 Hi, I'm Aryan Ullah
+<div align="center">
 
-### Junior Odoo Technical Developer | Python Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=200&section=header&text=Aryan%20Ullah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Odoo%20Technical%20Developer%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-I'm a Junior Odoo Technical Developer with hands-on experience in Odoo Enterprise development.
+<a href="https://linkedin.com/in/aryan-ullah-0a7835293">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aryanullah61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/aryanodoo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I work on custom module development, report customization, workflow automation, REST API integrations, and fixing business-specific requirements.
+![Profile Views](https://komarev.com/ghpvc/?username=aryanodoo&color=714B67&style=for-the-badge&label=PROFILE+VIEWS)
 
-I've worked on Odoo 16, Odoo 17, Odoo 18, and Odoo 19 projects across different business areas like **Sales, Purchase, Inventory, Accounting, HR, Payroll and CRM**.
+</div>
 
-Some of the projects I've worked on include Shopify integration with Odoo 17 and Oracle Fusion integration with Odoo 18.
+<br>
 
-I'm passionate about learning new technologies and improving my skills every day to become a better ERP developer.
+## 👋 About Me
 
----
+I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo 16, 17, 18, and 19**, working on custom module development, report customization, workflow automation, and REST API integrations.
 
-# 💼 About Me
+- 🏢 Currently building Enterprise ERP solutions at **Al Bari Consulting Group (ABCG)**
+- 🐍 Python backend developer at heart, living in the Odoo ORM
+- 🔄 Comfortable across Sales, Purchase, Inventory, Accounting, HR, Payroll & CRM
+- 🌐 Shipped a **Shopify ↔ Odoo 17** integration and an **Oracle Fusion ↔ Odoo 18** integration
+- 📚 Always learning — currently deep in performance tuning and clean architecture
+- 📍 Based in Lahore, Pakistan
 
-- 💼 Junior Odoo Technical Developer
-- 🏢 Currently working on Enterprise ERP Solutions
-- 🐍 Python Backend Developer
-- ⚙️ Odoo 16 • Odoo 17 • Odoo 18 • Odoo 19
-- 📊 PostgreSQL Database
-- 🖥 Linux Server Administration
-- 🌐 REST API Integration
-- 📄 QWeb Report Development
-- 🔄 XML View Customization
-- ⚡ ORM Development
-- 🔧 Business Process Automation
-- 🚀 Passionate about building scalable ERP systems
-- 📚 Continuously learning modern software architecture and best development practices
+<br>
 
----
+## 🚀 ERP Expertise
 
-# 🚀 ERP Expertise
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Odoo Development
+**Odoo Development**
+- Custom Module Development
+- Odoo Enterprise Customization
+- ORM Development
+- XML View Customization
+- QWeb Reports & Dashboards
+- Wizards & Server Actions
+- Scheduled Actions (Cron)
+- Security Groups, Access Rights & Record Rules
+- Model Inheritance
+- Business Workflow Automation
 
-✔ Custom Module Development
+</td>
+<td valign="top" width="50%">
 
-✔ Odoo Enterprise Customization
+**Integrations & Functional Areas**
+- Shopify Integration (Odoo 17) — products, customers, orders, inventory, returns, webhooks
+- Oracle Fusion Integration (Odoo 18) — secure REST API sync
+- Sales · Purchase · Inventory · Accounting
+- CRM · HR · Payroll · Manufacturing
+- Recruitment & Reporting
 
-✔ ORM Development
+</td>
+</tr>
+</table>
 
-✔ XML View Customization
+<br>
 
-✔ QWeb Reports
+## 💻 Tech Stack
 
-✔ Wizards
+<div align="center">
 
-✔ Scheduled Actions (Cron)
+<img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,mysql,linux,git,github,docker,nginx&theme=dark" />
 
-✔ Server Actions
+</div>
 
-✔ Security Groups
+<div align="center">
 
-✔ Access Rights
+![Odoo 16](https://img.shields.io/badge/Odoo-16-714B67?style=flat-square)
+![Odoo 17](https://img.shields.io/badge/Odoo-17-714B67?style=flat-square)
+![Odoo 18](https://img.shields.io/badge/Odoo-18-714B67?style=flat-square)
+![Odoo 19](https://img.shields.io/badge/Odoo-19-714B67?style=flat-square)
+![ORM](https://img.shields.io/badge/Odoo-ORM-red?style=flat-square)
+![QWeb](https://img.shields.io/badge/QWeb-Reports-orange?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-API-2E8B57?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-1E90FF?style=flat-square)
 
-✔ Record Rules
+</div>
 
-✔ Model Inheritance
+<br>
 
-✔ Report Customization
+## 📌 Featured Projects
 
-✔ Dashboard Development
+### 🛒 Shopify Integration — Odoo 17
+Product, customer, order & inventory sync with two-way webhooks and a full returns/refund flow.
 
-✔ Business Workflow Automation
+### 🏢 Oracle Fusion Integration — Odoo 18
+Secure REST API bridge between Oracle Fusion ERP and Odoo for enterprise-grade data sync.
 
----
+### 📊 Custom Financial Reports
+QWeb-based accounting reports built on top of the Odoo Reporting Engine.
 
-### Third-Party Integrations
+### 📦 Custom Module Library
+Modules spanning HR, Payroll, CRM, Inventory, Purchase, Sales, Accounting, Manufacturing & Reporting.
 
-✅ Shopify Integration (Odoo 17)
+<br>
 
-- Product Synchronization
-- Customer Synchronization
-- Sales Order Synchronization
-- Inventory Synchronization
-- Webhooks
-- Returns & Refund Flow
+## 📈 Currently
 
----
+```text
+🔭 Working on     : Enterprise Odoo applications & advanced reporting
+⚙️  Optimizing     : ERP performance & API integrations
+🌱 Learning        : Docker deployment, CI/CD for Odoo, design patterns in Python
+🤝 Open to         : Odoo freelance/contract work & open-source collaboration
+```
 
-✅ Oracle Fusion Integration (Odoo 18)
+<br>
 
-- REST API Integration
-- Secure Authentication
-- Data Synchronization
-- Enterprise System Communication
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-### Functional Areas
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanodoo&show_icons=true&theme=default&hide_border=true&title_color=714B67&icon_color=714B67&text_color=333333"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanodoo&layout=compact&hide_border=true&theme=default&title_color=714B67&text_color=333333"/>
 
-- Sales
-- Purchase
-- Inventory
-- Accounting
-- CRM
-- Human Resources
-- Payroll
-- Manufacturing
-- Recruitment
-- Reporting
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanodoo&theme=default&hide_border=true&background=FFFFFF&ring=714B67&fire=714B67&currStreakLabel=714B67" />
 
----
+</div>
 
-# 💻 Tech Stack
+<br>
 
-## ERP Development
+<div align="center">
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Odoo 17](https://img.shields.io/badge/Odoo-17-purple?style=for-the-badge)
-![Odoo 18](https://img.shields.io/badge/Odoo-18-purple?style=for-the-badge)
-![Odoo 19](https://img.shields.io/badge/Odoo-19-purple?style=for-the-badge)
+### 🎯 Career Goal
+*Becoming an experienced Odoo ERP Engineer specializing in enterprise-scale ERP solutions, scalable architectures, and high-performance business applications — while contributing back to the Odoo open-source community.*
 
-![Custom Modules](https://img.shields.io/badge/Custom%20Modules-success?style=for-the-badge)
+<br>
 
-![ORM](https://img.shields.io/badge/Odoo-ORM-red?style=for-the-badge)
+**"Building business solutions through clean code, scalable ERP systems, and continuous learning."**
 
-![XML Views](https://img.shields.io/badge/XML-Views-blueviolet?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=100&section=footer" width="100%"/>
 
-![QWeb Reports](https://img.shields.io/badge/QWeb-Reports-orange?style=for-the-badge)
-
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-
-![Webhooks](https://img.shields.io/badge/Webhooks-blue?style=for-the-badge)
-
-![Third Party Integration](https://img.shields.io/badge/Third--Party-Integration-darkgreen?style=for-the-badge)
-
----
-
-## Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge)
-
----
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## DevOps & Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-
-![Contabo](https://img.shields.io/badge/Contabo-Server-blue?style=for-the-badge)
-
----
-
-# 📌 Featured Projects
-
-## 🛒 Shopify Integration (Odoo 17)
-
-Developed and customized Shopify integration to synchronize:
-
-- Products
-- Customers
-- Orders
-- Inventory
-- Returns
-- Refunds
-- Webhooks
-
----
-
-## 🏢 Oracle Fusion Integration (Odoo 18)
-
-Integrated Oracle Fusion ERP with Odoo through REST APIs for secure enterprise data synchronization.
-
----
-
-## 📊 Custom Financial Reports
-
-Developed and customized various accounting reports using QWeb and Odoo Reporting Engine.
-
----
-
-## 📦 Custom Odoo Modules
-
-Developed numerous custom modules covering:
-
-- HR
-- Payroll
-- CRM
-- Inventory
-- Purchase
-- Sales
-- Accounting
-- Manufacturing
-- Reporting
-
----
-
-# 📈 What I'm Currently Working On
-
-- Developing Enterprise Odoo Applications
-- Improving ERP Performance
-- API Integrations
-- Advanced Odoo Reporting
-- Workflow Automation
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Odoo ORM
-- Odoo Performance Optimization
-- Docker Deployment
-- CI/CD for Odoo
-- Clean Architecture
-- Design Patterns in Python
-- AI Integration with Odoo
-- Advanced PostgreSQL Optimization
-
----
-
-# 📊 GitHub Statistics
-
-<!-- GitHub Stats -->
-
-<!-- GitHub Streak -->
-
-<!-- Most Used Languages -->
-
----
-
-# 🎯 Career Goal
-
-My goal is to become an experienced Odoo ERP Engineer specializing in enterprise-scale ERP solutions, third-party integrations, scalable architectures, and high-performance business applications while actively contributing to the Odoo open-source community.
-
----
-
-# 📫 Connect With Me
-
-📧 Email: **aryanullah61@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/aryan-ullah-0a7835293
-
-🌍 Location:
-Lahore, Pakistan
-
-💻 GitHub:
-https://github.com/aryanodoo
-
-🌐 Company:
-Al Bari Consulting Group (ABCG)
-
----
-
-⭐ *"Building business solutions through clean code, scalable ERP systems, and continuous learning."*
+</div>
