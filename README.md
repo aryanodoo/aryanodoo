@@ -106,19 +106,22 @@ I'm a **Junior Odoo Technical Developer** with hands-on experience across **Odoo
 <h3><font color="#714B67">🛒 Shopify Integration — Odoo 17</font></h3>
 Product, customer, order & inventory sync with two-way webhooks and a full returns/refund flow.
 </td>
+
 <td width="50%" valign="top" bgcolor="#F4F0F7">
 <h3><font color="#714B67">🏢 Oracle Fusion Integration — Odoo 18</font></h3>
 Secure REST API bridge between Oracle Fusion ERP and Odoo for enterprise-grade data sync.
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top" bgcolor="#F4F0F7">
-<h3><font color="#714B67">📊 Custom Financial Reports</font></h3>
-QWeb-based accounting reports built on top of the Odoo Reporting Engine.
+<h3><font color="#714B67">📋 RHC Business Process Automation</font></h3>
+Built payroll automation, purchase comparison, and bid-to-budget solutions to streamline enterprise workflows.
 </td>
+
 <td width="50%" valign="top" bgcolor="#F4F0F7">
-<h3><font color="#714B67">📦 Custom Module Library</font></h3>
-Modules spanning HR, Payroll, CRM, Inventory, Purchase, Sales, Accounting, Manufacturing & Reporting.
+<h3><font color="#714B67">🏭 Granito ERP Customization</font></h3>
+Customized sales, purchase, inventory, and reporting workflows with automation for warehouse and production operations.
 </td>
 </tr>
 </table>
@@ -127,19 +130,35 @@ Modules spanning HR, Payroll, CRM, Inventory, Purchase, Sales, Accounting, Manuf
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%93%88%20Currently&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
-<table width="100%">
-<tr><td bgcolor="#F4F0F7">
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+<td style="width:22%; padding:10px; background:#F4F0F7;"><b>🔭 Working On</b></td>
+<td style="width:78%; padding:10px; background:#F4F0F7;">
+Enterprise Odoo applications & advanced reporting
+</td>
+</tr>
 
-```text
-🔭 Working on     : Enterprise Odoo applications & advanced reporting
-⚙️  Optimizing     : ERP performance & API integrations
-🌱 Learning        : Docker deployment, CI/CD for Odoo, design patterns in Python
-🤝 Open to         : Odoo freelance/contract work & open-source collaboration
-```
+<tr>
+<td style="padding:10px; background:#F4F0F7;"><b>⚙️ Optimizing</b></td>
+<td style="padding:10px; background:#F4F0F7;">
+ERP performance & API integrations
+</td>
+</tr>
 
-</td></tr>
+<tr>
+<td style="padding:10px; background:#F4F0F7;"><b>🌱 Learning</b></td>
+<td style="padding:10px; background:#F4F0F7;">
+Docker deployment, CI/CD for Odoo, Design Patterns in Python
+</td>
+</tr>
+
+<tr>
+<td style="padding:10px; background:#F4F0F7;"><b>🤝 Open To</b></td>
+<td style="padding:10px; background:#F4F0F7;">
+Odoo Freelance • Contract Work • Open Source Collaboration
+</td>
+</tr>
 </table>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=714B67&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
